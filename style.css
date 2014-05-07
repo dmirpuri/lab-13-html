@@ -1,0 +1,23 @@
+p {
+	color:#0033CC;
+	text-decoration:underline;
+}
+
+h1, h3 {
+	color:#009933;
+	background-color:#DCDCD8;
+	text-transform: uppercase;
+}
+
+h1 {
+	margin: 20px;
+	padding: 40px;
+	border: 5px; 
+	border-style: dashed;
+	border-color: red;
+
+}
+
+body {
+	font-family: sans-serif;
+}
