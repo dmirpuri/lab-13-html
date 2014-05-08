@@ -21,6 +21,14 @@ h1 {
 
 body {
 	font-family: sans-serif;
+	/*background: white url(http://foureyes.github.io/mtec1002-spring2014/resources/img/lab-13-face.png) repeat top right;*/
+	background-color: #E6E6B8;
+	font-size: 20px;
+
+}
+
+body a:hover {
+	text-transform: uppercase;
 }
 
 #intro {
